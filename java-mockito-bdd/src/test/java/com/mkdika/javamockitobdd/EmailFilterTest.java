@@ -10,6 +10,8 @@ import org.mockito.junit.MockitoJUnitRunner;
 
 import static org.assertj.core.api.BDDAssertions.then;
 import static org.mockito.BDDMockito.given;
+import static org.mockito.Mockito.verify;
+import static org.mockito.internal.verification.VerificationModeFactory.times;
 
 /**
  * Java Mockito BDD Demo
@@ -51,6 +53,9 @@ public class EmailFilterTest {
                 .as("Check that sender address contain suspicious promotion phrase")
                 .isNotNull()
                 .isEqualTo(Boolean.TRUE);
+
+        // Verify Mock
+        verify(incomingMailService,times(1)).getIncomingMail();
     }
 
 }

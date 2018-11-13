@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61a58250-a12b-4bb0-b1b7-f7891b04d1e2" name="Default Changelist" comment="" />
+    <list default="true" id="61a58250-a12b-4bb0-b1b7-f7891b04d1e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mkdika/javamockitobdd/EmailFilterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mkdika/javamockitobdd/EmailFilterTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -39,13 +41,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="26" />
-          <entry key="java" value="1573" />
+          <entry key="java" value="1644" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="26" />
-          <entry key="JAVA" value="1573" />
+          <entry key="JAVA" value="1644" />
         </counts>
       </usages-collector>
     </session>
@@ -55,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/mkdika/javamockitobdd/EmailFilterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+            <state relative-caret-position="166">
+              <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#557#558#0" expanded="true" />
@@ -115,6 +117,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -438,6 +443,9 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -567,7 +575,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542118533330</updated>
-      <workItem from="1542118537231" duration="3278000" />
+      <workItem from="1542118537231" duration="3762000" />
     </task>
     <servers />
   </component>
@@ -584,9 +592,18 @@
     <history-entry file="EmailFilterTest - 2018.11.13 at 22h 13m 12s.xml">
       <configuration name="EmailFilterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="EmailFilterTest - 2018.11.13 at 22h 13m 37s.xml">
+      <configuration name="EmailFilterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmailFilterTest - 2018.11.13 at 22h 21m 03s.xml">
+      <configuration name="EmailFilterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmailFilterTest - 2018.11.13 at 22h 21m 22s.xml">
+      <configuration name="EmailFilterTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3278000" />
+    <option name="totallyTimeSpent" value="3762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -596,7 +613,7 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.51805335" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5173979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" weight="0.3295082" />
@@ -685,8 +702,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/mkdika/javamockitobdd/EmailFilterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+        <state relative-caret-position="166">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#557#558#0" expanded="true" />
