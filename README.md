@@ -5,6 +5,7 @@
 
 ## Reference
 
+- [Mockito 2 Guide](https://static.javadoc.io/org.mockito/mockito-core/2.23.0/org/mockito/Mockito.html#4)
 - [Quick Guide to BDDMockito](https://www.baeldung.com/bdd-mockito)
 - [Write BDD Unit Tests with BDDMockito and AssertJ](https://thepracticaldeveloper.com/2018/05/10/write-bdd-unit-tests-with-bddmockito-and-assertj/)
 

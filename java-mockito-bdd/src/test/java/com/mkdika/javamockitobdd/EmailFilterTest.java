@@ -38,6 +38,7 @@ public class EmailFilterTest {
     public void given_notNull_email_when_called_filter_then_return_result() {
 
         // Given
+        // stub
         final Mail mail = new Mail("sales@super-store.com",
                 "mkdika@gmail.com",
                 "End year sale for you!",
