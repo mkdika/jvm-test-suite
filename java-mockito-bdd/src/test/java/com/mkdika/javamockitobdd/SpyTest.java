@@ -31,11 +31,9 @@ public class SpyTest {
         doReturn("hundred").when(spy).get(100);
         System.out.println(spy.get(100));
 
-
         // optionally, can verify
         verify(spy).add("one");
         verify(spy).add("two");
         verify(spy).get(100);
     }
-
 }
