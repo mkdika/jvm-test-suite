@@ -23,6 +23,7 @@ This repository is contains of demo and feature usage of several JVM Test Suite:
 - REST Assured
   - [REST Assured Usage Guide](https://github.com/rest-assured/rest-assured/wiki/Usage)
   - [How perform API Testing with REST Assured](https://techbeacon.com/how-perform-api-testing-rest-assured)
+  - [Easy integration testing with Spring Boot and REST-Assured](https://g00glen00b.be/spring-boot-rest-assured/)
 - Testing Best Practice
   - [Testing RESTful Services Java Best Practice](https://blog.philipphauer.de/testing-restful-services-java-best-practices/)
 
