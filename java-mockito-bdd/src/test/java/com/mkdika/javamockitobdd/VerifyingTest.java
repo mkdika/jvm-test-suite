@@ -40,8 +40,5 @@ public class VerifyingTest {
         verify(mockedList, atLeastOnce()).add("three times");
         verify(mockedList, atLeast(2)).add("three times");
         verify(mockedList, atMost(5)).add("three times");
-
-
     }
-
 }
